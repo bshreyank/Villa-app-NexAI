@@ -1,0 +1,24 @@
+.container__contact {
+    height: 100vh;
+    width: 100%;
+}
+
+.contact__back {
+    height: 70%;
+    color: white;
+    background-color: red;
+    background-image: url(../images/video-bg.jpg);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact__video img{
+    position: relative;
+    right:-420px;
+    top: -175px;
+
+    height: 300px;
+    
+}
